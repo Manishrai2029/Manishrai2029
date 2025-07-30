@@ -1,5 +1,7 @@
-## Hi there 👋
-
+🚀- Motivated and detail-oriented Software Test Engineer with hands-on experience in manual and 
+automation testing. Skilled in designing and executing test cases, automating test scripts using 
+Java, Selenium, and TestNG. Looking to leverage my skills and continue growing as an 
+Automation Test Engineer in a dynamic organization. 
 <!--
 **Manishrai2029/Manishrai2029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
